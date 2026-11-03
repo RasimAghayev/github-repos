@@ -1,5 +1,8 @@
 # github-repos
 
+![Views](https://hits.sh/github.com/RasimAghayev/github-repos.svg?label=views&color=0e75b6)
+
+
 A tiny static GitHub Pages site that lists the owner's public repositories,
 fetched client-side from the GitHub REST API. Two commits total
 (`GitHub Repository Showcase`, `Create static.yml`).
